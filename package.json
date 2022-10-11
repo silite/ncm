@@ -1,0 +1,22 @@
+{
+  "name": "ncm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dannmuku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.8.2",
+    "axios": "^1.1.2",
+    "form-data": "^4.0.0",
+    "https": "^1.0.0",
+    "pako": "^2.0.4",
+    "prettier": "^2.7.1",
+    "reconnecting-websocket": "^4.4.0",
+    "ws": "^8.9.0"
+  }
+}
